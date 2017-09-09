@@ -35,7 +35,7 @@ This is the very foundation of every design process. It is were we ask the right
     
     - Article: [Moving from Critical Review to Critique](https://www.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/ )
     
-3. Wireframes
+### Wireframes
 
   In creating wireframes, I usually create low fidelity wireframes in pen and paper, but when doing digital wireframes, Balsamiq and UXflow is what I use.
   
@@ -47,7 +47,7 @@ This is the very foundation of every design process. It is were we ask the right
   
     - Tools: [UX Flow](https://lstore.graphics/uxflow/)
   
-4. Mockups
+### Mockups
 
   Mockups are usually the end product of a design project. I'm using design software Sketch (if project can be done by one designer) and Figma (for collaborative designing). I'm using a design system in creating mock ups which you can check here -- place link
   
@@ -59,7 +59,7 @@ This is the very foundation of every design process. It is were we ask the right
   
     - [Figma](https://www.figma.com/)
   
- 5. Prototype
+### Prototype
   
   Protytpe is an early sample of the design without it having coded or developed. Usually, I create prototypes for my clients to see how the app's workflow and interaction will be. I'm using Flinto to create animated prototypes, and Invision for UX workflow prototype
   
