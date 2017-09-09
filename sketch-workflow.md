@@ -15,17 +15,17 @@ Listed below are sketch plugins I'm using in my design workflow:
 
 ## Sketch Wokflow
 
-**Grid configuration:** 
+###Grid configuration:
 
 I set my grid to 8x8 pixels since most of all screen sizes are divisible by 8.
 
   **_Article: [Grid system](https://builttoadapt.io/intro-to-the-8-point-grid-system-d2573cde8632)_**
 
-**Base page**
+###Base page
 
 Then, I start with creating a one base page, which will serve as my reference or guide for my other pages. Usually, my base pages are homepages.
 
-**Symbols**
+###Symbols
 
 From the base page, I extract the elements used to Symbols. I create the following symbols with their corresponding layer names:
 
@@ -97,17 +97,17 @@ From the base page, I extract the elements used to Symbols. I create the followi
       **_Tool : [Modular Scale](www.modularscale.com)_**
       
  
-**Design style guide**
+###Design style guide
 
 I group my layers and rename the group with its composition name. Read [Design style guide](https://github.com/rielm/design-resources/blob/master/design-style-guide.md) to know more about my design style guide. 
 
-**First design run to final run**
+###First design run to final run
 
 Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my first run of design and move it in my design final run.
 
-**Design polish*
+###Design polish
 
-After doing the design final run, I do some polishing especially if my elements, components are following the 8x8 grid system. Checking my spacing and font sizes. 
+After doing the design final run, I do some polishing especially if my elements, components are following the 8x8 grid system. Checking my spacing, font sizes, and color consitency.
  
  
       
