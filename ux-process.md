@@ -1,4 +1,4 @@
-# Design Workflow
+# UX Process
 
 This is my usual design workflow which starts from conceptualization to creating prototype or ux research (usability testing). 
 
