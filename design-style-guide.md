@@ -152,9 +152,15 @@ Project-name_monthdayyear (Coins_050317)
  
  I'm using 8x8 grid system in my projects. 
  
- Thus in using 8x8 grid system I'm using nudg.it plugin in Sketch app to adjust the "arrow" and "shift + arrow" increments to 8px. So that whenever I move a particular element, it will move always by 8px. And for figma, you can change it in the settings panel, for the increments.
+ Thus with 8x8 grid system, I'm using nudg.it plugin for Sketch app, to adjust the "arrow" and "shift + arrow" increments to 8px. So that whenever I move a particular element, it will move by 8px. And for Figma, you can change it in the settings panel, for the increments.
  
   _**Plugin**: [Nudg it](http://nudg.it/)_
   
-  
+ 
+ ## Typography
+ 
+ I'm using a **base font of 16px** with **diminished fifth 1.414 ratio** in (www.modularscale.com) since it fits well with 8x8 grid system. 
+ 
+ Usual font sizes:
+ 16px, 24px, 32px, 48px, 64px
   
