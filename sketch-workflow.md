@@ -103,7 +103,11 @@ I group my layers and rename the group with its composition name. Read [Design s
 
 **First design run to final run**
 
-Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my first run of design and move it in my design final run
+Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my first run of design and move it in my design final run.
+
+**Design polish*
+
+After doing the design final run, I do some polishing especially if my elements, components are following the 8x8 grid system. Checking my spacing and font sizes. 
  
  
       
