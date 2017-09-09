@@ -170,7 +170,7 @@ _**Tool**: [Modular Scale](http://www.modularscale.com/)_
    
 * Line height
  
-"Multiply your letter size by 1.618 and you will get perfect line height."
+_"Multiply your letter size by 1.618 and you will get perfect line height."_
 
 _**Tool**: [Line height ouput](http://jsbin.com/todidu/1/edit?output)_
 
