@@ -6,16 +6,16 @@ This is my usual design workflow which starts from conceptualization to creating
 
 This is the very foundation of every design process. It is were we ask the right question from our stakeholders, and collaborate with our design team.
 
-1. Asking the RIGHT questions
+**1. Asking the RIGHT questions**
 * Who are the target audience / users?
 * What is the product’s user goals? (i.e. sign up, buy, share)
 * What is the business’ goals?
 * What is the user problem we are trying to solve?
 
-2. Team Collaboration Session
+**2. Team Collaboration Session**
 * How might we (HMW)
 
-  "The goal is to find opportunities for design, so if your insights suggest several How Might We questions that’s great.”
+  _"The goal is to find opportunities for design, so if your insights suggest several How Might We questions that’s great.”_
   
   - Video: [How might we](https://vimeo.com/102964749)
   
