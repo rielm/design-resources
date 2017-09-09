@@ -57,7 +57,7 @@ This is the very foundation of every design process. It is were we ask the right
     
   * Figma from $0 to $12/user/mo
   
-    - [Figma](https://www.figma.com/)
+    - Tools: [Figma](https://www.figma.com/)
   
 ### Prototype
   
