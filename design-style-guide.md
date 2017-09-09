@@ -159,8 +159,21 @@ Project-name_monthdayyear (Coins_050317)
  
  ## Typography
  
- I'm using a **base font of 16px** with **diminished fifth 1.414 ratio** in (www.modularscale.com) since it fits well with 8x8 grid system. 
+ * Font sizes
+ 
+  I'm using a **base font of 16px** with **diminished fifth 1.414 ratio** in (www.modularscale.com) since it fits well with 8x8 grid system. 
  
  Usual font sizes:
  16px, 24px, 32px, 48px, 64px
+ 
+   _**Tool**: [Modular Scale](http://www.modularscale.com/)_
+   
+ * Line height
+ 
+ _Multiply your letter size by 1.618 and you will get perfect line height._
+ 
+    _**Tool**: [Line height output](http://jsbin.com/todidu/1/edit?output)_
+    
+    _**Article**: [How to use typography in UI Design](https://blog.prototypr.io/how-to-use-typography-in-ui-design-ce045fa4ff2e)_
+ 
   
