@@ -1,8 +1,8 @@
 # Design Workflow
 
-This is my usual design workflow which starts from conceptualization to creating prototype. 
+This is my usual design workflow which starts from conceptualization to creating prototype or ux research (usability testing). 
 
-### Conceptualization & Analysis
+## Conceptualization & Analysis
 
 This is the very foundation of every design process. It is were we ask the right question from our stakeholders, and collaborate with our design team.
 
@@ -35,7 +35,7 @@ This is the very foundation of every design process. It is were we ask the right
     
     - Article: [Moving from Critical Review to Critique](https://www.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/ )
     
-### Wireframes
+## Wireframes
 
   In creating wireframes, I usually create low fidelity wireframes in pen and paper, but when doing digital wireframes, Balsamiq and UXflow is what I use.
   
@@ -47,7 +47,7 @@ This is the very foundation of every design process. It is were we ask the right
   
     - Tools: [UX Flow](https://lstore.graphics/uxflow/)
   
-### Mockups
+## Mockups
 
   Mockups are usually the end product of a design project. I'm using design software Sketch (if project can be done by one designer) and Figma (for collaborative designing). I'm using a design system in creating mock ups which you can check here -- place link
   
@@ -59,7 +59,7 @@ This is the very foundation of every design process. It is were we ask the right
   
     - Tools: [Figma](https://www.figma.com/)
   
-### Prototype
+## Prototype
   
   Protytpe is an early sample of the design without it having coded or developed. Usually, I create prototypes for my clients to see how the app's workflow and interaction will be. I'm using Flinto to create animated prototypes, and Invision for UX workflow prototype
   
@@ -69,8 +69,18 @@ This is the very foundation of every design process. It is were we ask the right
     
   * Invision from $0 to $99/mo
   
-    - [Invisionapp](https://www.invisionapp.com/)
+    - Tools: [Invisionapp](https://www.invisionapp.com/)
  
    
+## UX Research (Usability testing) 
+
+  This process can be done before creating mockups or after prototyping. At most times, usability testing leads to iteration, where you revise and make changes to your wireframes or mockups to satisfy user's experience based from testing results. 
+  
+  * Steve Kurg on Usability testing
+
+    - Video: [Usability testing demo](https://www.youtube.com/watch?v=VTW1yYUqBm8)
  
+ * UX Training Script
+ 
+     - PDF: [User Testing script](https://www.dropbox.com/s/2fiae85r4wqzgf3/UXT-User-Test-Plan-2015.pdf?dl=0)
   
