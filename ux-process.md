@@ -34,7 +34,7 @@ This is the very foundation of every design process. It is were we ask the right
   
 * Design Critique
     
-    A strategy where designers work are being critiqued by other designers through “Socratic Questioning” or posing questions to pass judgement. 
+    A strategy where designers' work are being critiqued by other designers through “Socratic Questioning” or posing questions to pass judgement. 
     
     - Article: [Moving from Critical Review to Critique](https://www.uie.com/brainsparks/2011/10/27/moving-from-critical-review-to-critique/ )
     
