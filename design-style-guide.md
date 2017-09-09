@@ -170,10 +170,9 @@ Project-name_monthdayyear (Coins_050317)
    
  * Line height
  
- _Multiply your letter size by 1.618 and you will get perfect line height._
+ "Multiply your letter size by 1.618 and you will get perfect line height."
  
-    _**Tool**: [Line height output](http://jsbin.com/todidu/1/edit?output)_
-    
-    _**Article**: [How to use typography in UI Design](https://blog.prototypr.io/how-to-use-typography-in-ui-design-ce045fa4ff2e)_
+
+
  
   
