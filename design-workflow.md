@@ -52,7 +52,7 @@ This is the very foundation of every design process. It is were we ask the right
   
 ## Mockups
 
-  Mockups are usually the end product of a design project. I'm using design software Sketch (if project can be done by one designer) and Figma (for collaborative designing). I'm using a design system in creating mock ups which you can check here -- place link
+  Mockups are usually the end product of a design project. I'm using design software Sketch (if project can be done by one designer) and Figma (for collaborative designing). I'm using a design system in creating mock ups which you can check here -- [design-style-guide.md](https://github.com/rielm/design-resources/blob/master/design-style-guide.md)
   
   * Sketch app for $99 one time payment
   
