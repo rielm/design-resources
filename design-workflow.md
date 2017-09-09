@@ -4,16 +4,19 @@ This is my usual design workflow which starts from conceptualization to creating
 
 ## Conceptualization & Analysis
 
-This is the very foundation of every design process. It is were we ask the right question from our stakeholders, and collaborate with our design team.
+This is the very foundation of every design process. It is were we ask the right questions from our stakeholders, and collaborate with our design team.
 
 **1. Asking the RIGHT questions**
 * Who are the target audience / users?
 * What is the product’s user goals? (i.e. sign up, buy, share)
-* What is the business’ goals?
-* What is the user problem we are trying to solve?
+* What are the business’ goals?
+* What are the user problems we are trying to solve?
 
-**2. Team Collaboration Session**
+**2. Team Collaboration Session or Solution Creation**
+
 * How might we (HMW)
+
+  It is a technique for brainstorming where we practice writing open-ended questions to spark ideas. Like,  How might we... create a system where user can login without typing their email address and password, create a cone for ice cream without dripping etc.  
 
   _"The goal is to find opportunities for design, so if your insights suggest several How Might We questions that’s great.”_
   
