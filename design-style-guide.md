@@ -125,28 +125,28 @@ Project-name_monthdayyear (Coins_050317)
   
  * Artboard / Frame names should be Camelcase notation
  
- Bad
- ```
- homepage
- 
- cOntacT page
- ```
- 
- Good
- ```
- Homepage
- 
- Contact page
- ```
+   **Bad**
+   ```
+   homepage
+
+   cOntacT page
+   ```
+
+   **Good**
+   ```
+   Homepage
+
+   Contact page
+   ```
  
  * Use undercase "_" to join two words for names
  
- Example
- ```
- guest-name
- 
- sign-up
- ```
+   Example
+   ```
+   guest-name
+
+   sign-up
+   ```
   
   
   
