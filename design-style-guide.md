@@ -143,12 +143,18 @@ Project-name_monthdayyear (Coins_050317)
  
    Example
    ```
-   guest-name
+   guest_name
 
-   sign-up
+   sign_up
    ```
   
-  
+ ## Grid System
+ 
+ I'm using 8x8 grid system in my projects. 
+ 
+ Thus in using 8x8 grid system I'm using nudg.it plugin in Sketch app to adjust the "arrow" and "shift + arrow" increments to 8px. So that whenever I move a particular element, it will move always by 8px. And for figma, you can change it in the settings panel, for the increments.
+ 
+  _**Plugin**: [Nudg it](http://nudg.it/)_
   
   
   
