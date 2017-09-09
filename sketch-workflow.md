@@ -81,17 +81,18 @@ From the base page, I extract the elements used to Symbols. I create the followi
    
       My base font is usually 16px and I multiply it to 1.414 to get its modular scale then plot down all the font sizes on my artboard with the following text style names:
       
-      - heading 1
-      - heading 2
-      - heading 3
-      - heading 4
-      - heading 5
-      - heading 6
-      - paragraph
+      - Display 1
+      - Display 2
+      - Display 3
+      - Display 4
+      - Headline
+      - Title
+      - Subheading
       
-      - header
-      - subheader
-      - body
+      - Body 2
+      - Body 1
+      - Button
+      - Links
       
       **_Tool : [Modular Scale](www.modularscale.com)_**
       
@@ -99,6 +100,10 @@ From the base page, I extract the elements used to Symbols. I create the followi
 **Design style guide**
 
 I group my layers and rename the group with its composition name. Read [Design style guide](https://github.com/rielm/design-resources/blob/master/design-style-guide.md) to know more about my design style guide. 
+
+**First design run to final run**
+
+Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my first run of design and move it in my design final run
  
  
       
