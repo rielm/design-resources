@@ -18,7 +18,7 @@ This is the very foundation of every design process. It is were we ask the right
 
   It is a technique for brainstorming where we practice writing open-ended questions to spark ideas. Like,  How might we... create a system where user can login without typing their email address and password, create a cone for ice cream without dripping etc.  
 
-  _"The goal is to find opportunities for design, so if your insights suggest several How Might We questions that’s great.”_
+   _"The goal is to find opportunities for design, so if your insights suggest several How Might We questions that’s great.”_
   
   - Video: [How might we](https://vimeo.com/102964749)
   
