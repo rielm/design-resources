@@ -67,21 +67,9 @@ Project-name_monthdayyear (Coins_050317)
 * For Pages layer names:
   - composition / module / elements
   
-  Example:
-  ```
-  nav (folder group)
-    
-    nav (composition) / search (module)
-      
-      search (module) / button (elements)
-        
-      search (module) / bar (elements)  
-  ```  
-  
     Here is my layer structure for the header design on the right side:
     
 ![screen shot 2017-09-10 at 6 29 09 pm](https://user-images.githubusercontent.com/12945705/30248206-fcc4ea88-9655-11e7-9aca-5589811aa8e8.png)
-
 
   
  * For Symbols layer names (elements):
@@ -94,7 +82,10 @@ Project-name_monthdayyear (Coins_050317)
    
    icon (element) / phone (class) / big (modifier)
    ```
+   Symbol layer structure for search module
    
+   ![screen shot 2017-09-10 at 6 40 45 pm](https://user-images.githubusercontent.com/12945705/30248301-987dcc3c-9657-11e7-9564-4fe912746139.png)
+
     
 ## Layer Formatting
 
