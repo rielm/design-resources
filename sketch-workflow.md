@@ -77,6 +77,12 @@ From the base page, I extract the elements used to Symbols (i.e. buttons, colors
    
       (icon / icon-name)
       
+   * Border
+   
+     My borders are usually used as dividers and separators for my elements or modules.
+     
+     (border / gray)
+      
       
    * Typography
    
