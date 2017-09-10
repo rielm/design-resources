@@ -35,7 +35,15 @@ This is for legibility purposes."
 
 * "The general rule of thumb in tracking your words (not the characters) is that the shorter the line length the tighter the tracking, the opposite is also true."
 
-* For line height, multiply font size by 1.6 ratio, but for bigger font sizes (i.e. 64px) multiply it to 1.2 ratio
+* For line height, multiply font size by 1.6 ratio, but for bigger font sizes (i.e. 64px) multiply it to 1.2 ratio.
+
+* Avoid having orphan in text line. (Orphan is that word that is hanging the end of line).
+
+* Avoid all caps
+
+* Maximum of 3 fonts
+
+* 16px base font
 
 
 
