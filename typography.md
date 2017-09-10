@@ -37,7 +37,7 @@ This is for legibility purposes."
 
 * For line height, multiply font size by 1.6 ratio, but for bigger font sizes (i.e. 64px) multiply it to 1.2 ratio.
 
-* Avoid having orphan in text line. (Orphan is that word that is hanging the end of line).
+* Avoid having orphan in text line. (Orphan is that word hanging at the end of line).
 
 * Avoid all caps
 
