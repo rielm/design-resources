@@ -6,19 +6,25 @@ This is my design style guide when I work on projects using Sketch or Figma
 
    **Compositions**
   
-  biggest design chunk of an interface. These are usually the section in pages that are made up of modules/components.
-  (i.e. navigation, landing, about section, contact section, footer etc)
+  biggest design chunk of an interface. These are usually the section in pages that are made up of modules/components
+  (i.e. navigation, landing, about section, contact section, footer etc). Below is one composition, a section of the project's homepage.
+  
+  ![screen shot 2017-09-10 at 6 12 33 pm](https://user-images.githubusercontent.com/12945705/30248060-a7e4b202-9653-11e7-9d69-aa4f926630b3.png)
+
   
    **Modules/Components**
   
-  these are reusable components which are made out of elements.
-  (i.e. search module, gallery module, card module, statistics module)
+  these are reusable components which are made out of elements (i.e. search module, gallery module, card module, statistics module). Below is a card module / component.
+  
+  ![screen shot 2017-09-10 at 6 14 17 pm](https://user-images.githubusercontent.com/12945705/30248074-e36ede42-9653-11e7-8fba-29a8184a95e5.png)
+
   
   **Elements**
   
-  is what comprises a module. These are the building blocks that made up a design module.
+  is what comprises a module. These are the building blocks that made up a design module (i.e. search button + search bar = search, nav logo + nav menu = navigation). Below are the icon elements and text elements for the card module.
   
-  (i.e. search button + search bar = search, nav logo + nav menu = navigation)
+  ![screen shot 2017-09-10 at 6 16 17 pm](https://user-images.githubusercontent.com/12945705/30248099-2cdedb4a-9654-11e7-9d0d-28493df148d5.png)
+
   
   **Bases**
   
@@ -53,6 +59,7 @@ Project-name_monthdayyear (Coins_050317)
 
   05_documentation
   ```
+![screen shot 2017-09-10 at 6 20 56 pm](https://user-images.githubusercontent.com/12945705/30248131-d29f1afe-9654-11e7-89ea-a484d9efd06a.png)
 
 
 ## Layer name structure
@@ -70,6 +77,12 @@ Project-name_monthdayyear (Coins_050317)
         
       search (module) / bar (elements)  
   ```  
+  
+    Here is my layer structure for the header design on the right side:
+    
+![screen shot 2017-09-10 at 6 29 09 pm](https://user-images.githubusercontent.com/12945705/30248206-fcc4ea88-9655-11e7-9aca-5589811aa8e8.png)
+
+
   
  * For Symbols layer names (elements):
    - elements / class / modifier
