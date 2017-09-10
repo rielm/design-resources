@@ -30,8 +30,12 @@
 
 ## Rule of thumb 
 
-* A general good rule of thumb is 2-3 alphabets in length, or 52-78 characters (including spaces) per line. 
-This is for legibility purposes. 
+* "A general good rule of thumb is 2-3 alphabets in length, or 52-78 characters (including spaces) per line. 
+This is for legibility purposes."
 
-* The general rule of thumb in tracking your words (not the characters) is that the shorter the line length the tighter the tracking, the opposite is also true.
+* "The general rule of thumb in tracking your words (not the characters) is that the shorter the line length the tighter the tracking, the opposite is also true."
+
+* For line height, multiply font size by 1.6 ratio, but for bigger font sizes (i.e. 64px) multiply it to 1.2 ratio
+
+
 
