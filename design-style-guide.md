@@ -153,12 +153,14 @@ Project-name_monthdayyear (Coins_050317)
    Bad
    ```
    button / primary / bigger
+   
    border / slightly-gray
    ```
   
    Good
    ```
    button / primary / big
+   
    border / gray / 25 (25 corresponds to opacity)
    ```
 ## Grid System
