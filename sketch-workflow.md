@@ -111,6 +111,8 @@ I group my layers and rename the group with its composition name. Read [Design s
 
 Once I've laid out all my symbols, texts, and all UI inventory, I now create the final sketch document. I only get the symbols and styles which I have used in my initial run of designs and move it in my final run. 
 
+**_Article: [UI Inventory](http://bradfrost.com/blog/post/interface-inventory/)_**
+
 ### Design polish
 
 After doing the design final run, I do some polishing especially if my elements and components are following the 8x8 grid system. Checking my spacing, font sizes, and color consitency.
