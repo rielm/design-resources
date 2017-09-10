@@ -147,7 +147,20 @@ Project-name_monthdayyear (Coins_050317)
 
    sign_up
    ```
+   
+ * Layer names must be descriptive and short.
+ 
+   Bad
+   ```
+   button / primary / bigger
+   border / slightly-gray
+   ```
   
+   Good
+   ```
+   button / primary / big
+   border / gray / 25 (25 corresponds to opacity)
+   ```
 ## Grid System
  
 I'm using 8x8 grid system in my projects. 
