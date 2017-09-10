@@ -80,7 +80,7 @@ From the base page, I extract the elements used to Symbols (i.e. buttons, colors
       
    * Typography
    
-      My base font is usually 16px and I multiply it to 1.414 to get its modular scale then plot down all the font sizes on my artboard with the following text style names:
+      My base font is usually 16px and I multiply it to 1.414 to get its modular scale, then plot down all the font sizes on my artboard with the following text style names, and save each as shared style:
       
       - Display 1
       - Display 2
