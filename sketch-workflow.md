@@ -23,11 +23,11 @@ I set my grid to 8x8 pixels since most of all screen sizes are divisible by 8.
 
 ### Base page
 
-Then, I start with creating a one base page, which will serve as my reference or guide for my other pages. Usually, my base pages are homepages.
+Then, I start with creating a one base page, which will serve as my reference or guide for my other pages. Usually, my base page is homepage.
 
 ### Symbols
 
-From the base page, I extract the elements used to Symbols. I create the following symbols with their corresponding layer names:
+From the base page, I extract the elements used to Symbols (i.e. buttons, colors, icons, etc). I create the following symbols with their corresponding layer names:
 
   * Colors
   
@@ -37,11 +37,11 @@ From the base page, I extract the elements used to Symbols. I create the followi
       
     - Black: 75%, 50%, 25% 
     
-      (color / black / 75 ; color / black / 50 ; color / black / 25)
+      (color / black / 75 etc.)
       
     - Gray: 3-5 different shades of gray, mostly used as dividers and shape stokes 
     
-      (color / gray / dark , color / gray / light etc)
+      (color / gray / dark etc.)
     
     - Accent: Warning, Danger, Success
     
@@ -52,9 +52,10 @@ From the base page, I extract the elements used to Symbols. I create the followi
       
     - Primary buttons
     
-      (button / primary / big etc)
+      (button / primary / big etc.)
     
     - Outline buttons
+      (button / outline / small etc.)
     
   * States
   
@@ -88,7 +89,6 @@ From the base page, I extract the elements used to Symbols. I create the followi
       - Headline
       - Title
       - Subheading
-      
       - Body 2
       - Body 1
       - Button
@@ -101,13 +101,13 @@ From the base page, I extract the elements used to Symbols. I create the followi
 
 I group my layers and rename the group with its composition name. Read [Design style guide](https://github.com/rielm/design-resources/blob/master/design-style-guide.md) to know more about my design style guide. 
 
-### First design run to final run
+### Initial run to Final run
 
-Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my first run of design and move it in my design final run.
+Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my initial run of designs and move it in my final run.
 
 ### Design polish
 
-After doing the design final run, I do some polishing especially if my elements, components are following the 8x8 grid system. Checking my spacing, font sizes, and color consitency.
+After doing the design final run, I do some polishing especially if my elements and components are following the 8x8 grid system. Checking my spacing, font sizes, and color consitency.
  
  
       
