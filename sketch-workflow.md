@@ -107,9 +107,9 @@ From the base page, I extract the elements used to Symbols (i.e. buttons, colors
 
 I group my layers and rename the group with its composition name. Read [Design style guide](https://github.com/rielm/design-resources/blob/master/design-style-guide.md) to know more about my design style guide. 
 
-### Initial run to Final run
+### Initial run (UI inventory) to Final run
 
-Once I've laid out all my symbols, texts, and pages, I now create the final sketch document. I only get the symbols and styles which I have used in my initial run of designs and move it in my final run.
+Once I've laid out all my symbols, texts, and all UI inventory, I now create the final sketch document. I only get the symbols and styles which I have used in my initial run of designs and move it in my final run. 
 
 ### Design polish
 
