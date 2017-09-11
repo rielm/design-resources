@@ -4,7 +4,7 @@
 ## Articles:
 
 * [Typography can make or break your design: a process for choosing type](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
-* [Getting Typography Right in Digital Design](https://medium.freecodecamp.org/typography-can-make-your-design-or-break-it-7be710aadcfe)
+* [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad)
 * [Kern type game](http://type.method.ac/)
 * [Fontology](https://www.fonts.com/content/learning/fontology/level-1)
 * [How to pair fonts](https://www.invisionapp.com/blog/how-to-pair-fonts/)
