@@ -12,3 +12,4 @@
 ## Resources
 
 * [Typography](https://github.com/rielm/design-resources/blob/master/typography.md)
+* [Design videos](https://github.com/rielm/design-resources/blob/master/design-videos.md)
