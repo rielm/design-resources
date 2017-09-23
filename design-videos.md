@@ -17,3 +17,8 @@
 
 * [The psychology of decision making in UX](https://www.youtube.com/watch?v=QgiB8KhbGKY)
 
+
+## UX
+
+* [UX Design Basics: Mental Models](https://www.youtube.com/watch?v=9gM8K4ooavY)
+
