@@ -12,6 +12,7 @@
 * [Typography Tutorial - 10 rules to help you rule type](https://www.youtube.com/watch?v=QrNi9FmdlxY)
 * [Improving Web and Mobile App Typography - 5 basic guidelines](https://www.youtube.com/watch?v=O3fVMm-Ef0Y)
 * [Graphic Design Tutorial: Typography Design & Art Direction](https://www.youtube.com/watch?v=DLeSPCTA9Wg)
+* [Typographic Terminology A to Z: Our list of typography terms that every designer should know.](https://www.youtube.com/watch?v=WzVl_ATHUQ0)
 
 ## Pyschology
 
@@ -21,4 +22,5 @@
 ## UX
 
 * [UX Design Basics: Mental Models](https://www.youtube.com/watch?v=9gM8K4ooavY)
+
 
