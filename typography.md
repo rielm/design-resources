@@ -8,7 +8,7 @@
 * [Kern type game](http://type.method.ac/)
 * [Fontology](https://www.fonts.com/content/learning/fontology/level-1)
 * [How to pair fonts](https://www.invisionapp.com/blog/how-to-pair-fonts/)
-* [5 simple steps to better typography](http://www.markboulton.co.uk/journal/five-simple-steps-to-better-typography)
+* [5 minutes guide to better typography] (http://pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 
 ## Inspiration:
 
