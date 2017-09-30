@@ -30,6 +30,12 @@
 
 ## Rule of thumb 
 
+* Start with one typeface
+
+* Use contrast by using weights, colors, and styles
+
+* Use between 40 - 70 characters per line
+
 * "A general good rule of thumb is 2-3 alphabets in length, or 52-78 characters (including spaces) per line. 
 This is for legibility purposes."
 
@@ -42,6 +48,10 @@ This is for legibility purposes."
 * Avoid all caps
 
 * Maximum of 3 fonts
+
+* Choose font with atleast 4 weights.
+
+* When in doubt, align left.
 
 * 16px base font
 
