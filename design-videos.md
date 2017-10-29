@@ -6,6 +6,7 @@
 * [Design is in details](https://www.youtube.com/watch?v=7g0O003kufA&t=2s)
 * [The three ways that good design makes you happy](https://www.youtube.com/watch?v=RlQEoJaLQRA)
 * [Design for All 5 Senses](https://www.youtube.com/watch?v=N6wjC0sxD2o)
+* [7 Rules for Creating Gorgeous UI w/ Eric Kennedy] (https://www.youtube.com/watch?v=rCEF3ezhlfo)
 
 ## Typography
 
