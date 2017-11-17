@@ -143,13 +143,17 @@ Project-name_monthdayyear (Coins_050317)
    Contact page
    ```
  
- * Use undercase "_" to join two words for names
+ * Use undercase "_" to join two words for names and "-" dash if it has modifier
  
    Example
    ```
    guest_name
 
    sign_up
+   
+   gallery - grid
+   
+   gallery - slider
    ```
    
  * Layer names must be descriptive and short.
